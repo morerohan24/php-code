@@ -1,0 +1,9 @@
+<?php
+$gender='f';
+if($genter=='f'){
+echo"female";
+}
+else{
+echo"male";
+}
+?>

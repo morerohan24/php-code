@@ -1,0 +1,10 @@
+<html>
+<body>
+<form action ="multi.php"method="POST">
+enter how many row :-<input type="number"name="t1">
+<br>
+enter how many column:-<input type="number"name="t2">
+<input type ="submit" value "Ok">
+</form>
+</body>
+</html>

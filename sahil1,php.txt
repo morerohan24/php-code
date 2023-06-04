@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <?php>
+    function welcmsg()
+    {
+        echo"helllo world"
+    }
+    welcmsg();
+    ?>
+</body>
+</html>
